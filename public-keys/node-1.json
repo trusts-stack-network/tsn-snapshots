@@ -1,0 +1,6 @@
+{
+  "seed_name": "node-1",
+  "algorithm": "Ed25519",
+  "public_key": "9780a791eb6723ced2d358c552db283273f7f3e86cd7a7a0ededf513aad4023d",
+  "description": "TSN node-1 relay — snapshot producer and signer"
+}

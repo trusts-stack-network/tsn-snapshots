@@ -1,0 +1,14 @@
+# Never commit private keys or secrets
+*.bin
+*.key
+*.pem
+*.secret
+seed_key*
+signing_key*
+
+# Never commit snapshot data to git (stored in GitHub Releases)
+snapshots/
+*.json.gz
+
+# OS
+.DS_Store
